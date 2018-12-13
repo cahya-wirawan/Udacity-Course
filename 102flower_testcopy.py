@@ -10,6 +10,12 @@ from shutil import copy
 # The file 102flowers.tgz should be untared on "root_dir"
 # and imagelabels.mat should be copied in "root_dir"
 # Just change the "root_dir" appropriately
+#
+# The 102 flower dataset from Udacity can be downloaded from
+# https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip
+# This file should be also unziped to "root_dir"
+# After the script is executed, the Udacity flower dataset will have test folder
+# with  its labels
 
 
 root_dir = Path('/mnt/mldata/data/Udacity/combine')
