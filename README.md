@@ -15,3 +15,7 @@ and just change the "root_dir" appropriately.
 The 102 flower dataset from Udacity can be downloaded from
 https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip
 This file should be also unziped to "root_dir"
+
+## flower_test.tgz
+
+Test folder with 819 images created by the script.
