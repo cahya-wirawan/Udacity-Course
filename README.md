@@ -19,3 +19,8 @@ This file should be also unziped to "root_dir"
 ## flower_test.tgz
 
 Test folder with 819 images created by the script.
+
+## Possible Mislabeled Images
+After reviewing the result of the predictions, it seems there are 2 mislabeled 
+images in valid dataset and also 2 mislabeled images in test dataset. Following is the 
+[review of the images](https://github.com/cahya-wirawan/Udacity-Course/blob/master/possible_mislabeled_images.md).
