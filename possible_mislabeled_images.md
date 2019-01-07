@@ -22,4 +22,4 @@ of 98.79 (10 wrong predictions from 819 images).
 ![07_image_04568.png](https://github.com/cahya-wirawan/Udacity-Course/raw/master/images/test/07_image_04568.png)
 ![08_image_04938.png](https://github.com/cahya-wirawan/Udacity-Course/raw/master/images/test/08_image_04938.png)
 ![09_image_05678.png](https://github.com/cahya-wirawan/Udacity-Course/raw/master/images/test/09_image_05678.png)
-![10_image_04609.png](https://github.com/cahya-wirawan/Udacity-Course/raw/master/images/test/10_image_04609.png)
+![11_image_07536.png](https://github.com/cahya-wirawan/Udacity-Course/raw/master/images/test/11_image_07536.png)
