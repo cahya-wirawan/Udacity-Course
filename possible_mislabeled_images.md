@@ -3,7 +3,7 @@
 Following is the list of flowers in valid and test set that my model wrongly predicted according to its label. 
 For this purpose I use a model with valid accuracy of 99.39 (5 wrong predictions from 818 images) and test accuracy 
 of 98.79 (10 wrong predictions from 819 images). Each wrongly predicted images (the top left) is compared to 3 other 
-images with the same same label (first row) and 4 other images from the predicted label (second row). Wit this 
+images with the same label (first row) and 4 other images from the predicted label (second row). With this 
 comparison we can check visually whether the image is correctly labeled by the team from the University of 
 Oxford or not.
 
