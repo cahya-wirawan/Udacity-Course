@@ -11,12 +11,12 @@ Oxford or not.
 1. The first image image_07303.jpg is clearly misclassified, labelled as Ball moss (93), but it should be 
 Foxglove (94)
 ![01_image_07303.png](https://github.com/cahya-wirawan/Udacity-Course/raw/master/images/valid/01_image_07303.png)
+2. I think the second image image_07677.jpg is also misclassified as Camelia (96), which should be Mallow (97)
 ![02_image_07677.png](https://github.com/cahya-wirawan/Udacity-Course/raw/master/images/valid/02_image_07677.png)
 ![03_image_03693.png](https://github.com/cahya-wirawan/Udacity-Course/raw/master/images/valid/03_image_03693.png)
 ![04_image_04333.png](https://github.com/cahya-wirawan/Udacity-Course/raw/master/images/valid/04_image_04333.png)
 ![05_image_04927.png](https://github.com/cahya-wirawan/Udacity-Course/raw/master/images/valid/05_image_04927.png)
 
-2. I think the second image image_07683.jpg is also misclassified as Camelia (96), which should be Mallow (97)
 ## Test Set Images
 ![01_image_07683.png](https://github.com/cahya-wirawan/Udacity-Course/raw/master/images/test/01_image_07683.png)
 ![02_image_07676.png](https://github.com/cahya-wirawan/Udacity-Course/raw/master/images/test/02_image_07676.png)
